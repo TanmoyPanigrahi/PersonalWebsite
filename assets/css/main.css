@@ -2179,7 +2179,7 @@ hr.style2 {
 
 	#header {
 		position: relative;
-		background-image: url("https://github.com/TanmoyPanigrahi/PersonalWebsite/blob/gh-pages/images/picbg.JPG");
+		background-image: url("../../images/headbg.JPG");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
