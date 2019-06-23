@@ -2173,10 +2173,13 @@ input, select, textarea {
 		}
 
 /* Header */
+hr.style2 {
+	border-top: 3px double #000000;
+}
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/picbg.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2239,7 +2242,7 @@ input, select, textarea {
 		}
 
 			#header hr:before, #header hr:after {
-				background: rgba(192, 192, 192, 0.35);
+				background:#000000;
 			}
 
 		#header footer {
