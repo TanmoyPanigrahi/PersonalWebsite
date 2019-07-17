@@ -1,1 +1,1 @@
-Personal Website built using HTML5UP and to be hosted soon, once completed, on AWS. 
+Personal Website built using HTML5UP and hosted using gh-pages at tanmoy.tech
