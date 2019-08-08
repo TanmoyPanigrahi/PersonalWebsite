@@ -1,1 +1,1 @@
-Personal Website hosted using gh-pages at tanmoy.tech
+Personal Website hosted using gh-pages
