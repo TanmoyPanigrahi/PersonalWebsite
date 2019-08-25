@@ -151,10 +151,10 @@ input, select, textarea {
 		color: inherit;
 		/*border-bottom: solid 0.75px rgba(128, 128, 128, 0.15);*/
 		text-decoration:none;
-		-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+		-moz-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
+		-webkit-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
+		-ms-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
+		transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
 	}
 
 		a:hover {
@@ -1960,10 +1960,10 @@ input, select, textarea {
 		border-radius: 0.5em;
 		border: solid 1px #E5E5E5;
 		padding: 1em;
-		-moz-transition: background-color 0.35s ease-in-out, border-color 0.35s ease-in-out;
-		-webkit-transition: background-color 0.35s ease-in-out, border-color 0.35s ease-in-out;
-		-ms-transition: background-color 0.35s ease-in-out, border-color 0.35s ease-in-out;
-		transition: background-color 0.35s ease-in-out, border-color 0.35s ease-in-out;
+		-moz-transition: background-color 0.1s ease-in-out, border-color 0.1s ease-in-out;
+		-webkit-transition: background-color 0.1s ease-in-out, border-color 0.1s ease-in-out;
+		-ms-transition: background-color 0.1s ease-in-out, border-color 0.1s ease-in-out;
+		transition: background-color 0.1s ease-in-out, border-color 0.1s ease-in-out;
 	}
 
 		form input[type="text"]:focus,
@@ -2065,10 +2065,10 @@ input, select, textarea {
 		cursor: pointer;
 		outline: 0;
 		font-weight: 300;
-		-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
-		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+		-moz-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
+		-webkit-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
+		-ms-transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
+		transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out, border-bottom-color 0.1s ease-in-out;
 	}
 
 		input[type="button"]:hover,
